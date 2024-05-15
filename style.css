@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* logo  */
+.logo{
+    width: 130px;
+    height: 40px;
+}
+/* header-button */
+.header-botton{
+    background: linear-gradient(to right, #61bbe9 20%, #027cb8 80%);
+    }
+ .header-botton:hover{
+    background: linear-gradient(to right, #016090 20%, #53b2e1 80%);
+}
+/* navbar menu */
+.navbar-menu:hover{
+color: #059be6 !important;
+}
+
+/* hero section */
+.hero-button:hover{
+    color: black;
+    background: white;
+}
